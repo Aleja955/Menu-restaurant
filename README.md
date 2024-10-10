@@ -11,7 +11,8 @@ Este proyecto es la portada de un menú, realizado con HTML y CSS.
 - Diseño responsivo.
 
 ## Cómo usarlo
-Puedes acceder al proyecto desde este [enlace de GitHub Pages](XXXXXXXXXXXXXXXX).
+Puedes acceder al proyecto desde este [enlace de GitHub Pages]
+(https://aleja955.github.io/Menu-restaurant/).
 
 ## Instalación local
 1. Clona el repositorio:
